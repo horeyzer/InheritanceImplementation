@@ -1,11 +1,11 @@
 import java.util.Scanner;
 public class Person
 {
-    protected String surname;
-    protected String firstName;
-    protected String street;
-    protected String zipCode;
-    protected String city;
+    private String surname;
+    private String firstName;
+    private String street;
+    private String zipCode;
+    private String city;
 
     public void initialize()
     {
